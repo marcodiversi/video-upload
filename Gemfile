@@ -1,5 +1,20 @@
 source 'https://rubygems.org'
 
+gem 'haml'
+gem 'devise'
+gem 'simple_form'
+gem 'paperclip'
+gem 'bootstrap-sass'
+gem 'sidekiq'
+gem 'sidetiq', github: 'sfroehler/sidetiq', branch: 'celluloid-0-17-compatibility'
+gem 'pubnub',  github: 'pubnub/ruby', branch: 'celluloid'
+gem 'sinatra', :require => nil
+
+group :development do
+  gem 'pry'
+  gem 'pry-rails'
+end
+
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.0.0', '>= 5.0.0.1'
