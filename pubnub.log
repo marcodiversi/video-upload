@@ -459,3 +459,69 @@ D, [2016-10-10T11:04:38.599517 #22057] DEBUG -- Pubnub::Event: Requested URI: ht
 D, [2016-10-10T11:04:38.699816 #22057] DEBUG -- Pubnub::Event: Event#handle
 D, [2016-10-10T11:04:38.700137 #22057] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
 D, [2016-10-10T11:04:38.700285 #22057] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+I, [2016-10-10T11:07:52.884607 #22124]  INFO -- Pubnub::Client: Created new Pubnub::Client instance. Version: 4.0.0beta14
+D, [2016-10-10T11:07:52.889416 #22124] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2016-10-10T11:07:52.889912 #22124] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2016-10-10T11:07:52.890060 #22124] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2016-10-10T11:07:52.891223 #22124] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-d27e11b4-8ed6-11e6-b5db-02ee2ddab7fe?timestamp=1476097672&w=0&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&uuid=5e770cad-1e31-4273-9e7e-564dda85094f&channel=video.*&signature=hcPZKz2p4lFsV-GO-7VmexdkkWCVhzLl0cceXOanuJo=
+D, [2016-10-10T11:07:53.040585 #22124] DEBUG -- Pubnub::Event: Event#handle
+D, [2016-10-10T11:07:53.041840 #22124] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2016-10-10T11:07:53.042101 #22124] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2016-10-10T11:07:53.049288 #22124] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2016-10-10T11:07:53.052338 #22124] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2016-10-10T11:07:53.052472 #22124] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2016-10-10T11:07:53.053062 #22124] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-d27e11b4-8ed6-11e6-b5db-02ee2ddab7fe?timestamp=1476097673&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&uuid=5e770cad-1e31-4273-9e7e-564dda85094f&channel=video.*&signature=lWXtDwAdsk5oI00AYpT63eanJOCYXJugdIzcY6CjCxc=
+D, [2016-10-10T11:07:53.168585 #22124] DEBUG -- Pubnub::Event: Event#handle
+D, [2016-10-10T11:07:53.168980 #22124] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2016-10-10T11:07:53.169226 #22124] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2016-10-10T11:07:53.172406 #22124] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2016-10-10T11:07:53.172907 #22124] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2016-10-10T11:07:53.173040 #22124] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2016-10-10T11:07:53.173687 #22124] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-d27e11b4-8ed6-11e6-b5db-02ee2ddab7fe?timestamp=1476097673&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&uuid=5e770cad-1e31-4273-9e7e-564dda85094f&channel=notifications.*&signature=SRl1zlsIu1iNEvJj_78OXiQzq9pgbaLujtL2bISkUGk=
+D, [2016-10-10T11:07:53.326428 #22124] DEBUG -- Pubnub::Event: Event#handle
+D, [2016-10-10T11:07:53.326800 #22124] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2016-10-10T11:07:53.326997 #22124] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+I, [2016-10-10T11:20:53.201094 #22723]  INFO -- Pubnub::Client: Created new Pubnub::Client instance. Version: 4.0.0beta14
+D, [2016-10-10T11:20:53.202558 #22723] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2016-10-10T11:20:53.209279 #22723] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2016-10-10T11:20:53.209399 #22723] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2016-10-10T11:20:53.210376 #22723] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-d27e11b4-8ed6-11e6-b5db-02ee2ddab7fe?timestamp=1476098453&w=0&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&uuid=7990b5a6-68be-43af-9776-a1c73e12078c&channel=video.*&signature=RPrXdKirx4mp3q3qMUhw67opGIIqWW9mPiK2t3QL8Gw=
+D, [2016-10-10T11:20:53.374464 #22723] DEBUG -- Pubnub::Event: Event#handle
+D, [2016-10-10T11:20:53.374891 #22723] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2016-10-10T11:20:53.375116 #22723] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2016-10-10T11:20:53.376607 #22723] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2016-10-10T11:20:53.379579 #22723] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2016-10-10T11:20:53.379675 #22723] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2016-10-10T11:20:53.380107 #22723] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-d27e11b4-8ed6-11e6-b5db-02ee2ddab7fe?timestamp=1476098453&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&uuid=7990b5a6-68be-43af-9776-a1c73e12078c&channel=video.*&signature=5cLUP_wFk8LCLokox06MGyNJ_NWY3lWXdezP0z_PCd0=
+D, [2016-10-10T11:20:53.510606 #22723] DEBUG -- Pubnub::Event: Event#handle
+D, [2016-10-10T11:20:53.510907 #22723] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2016-10-10T11:20:53.511148 #22723] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2016-10-10T11:20:53.513701 #22723] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2016-10-10T11:20:53.514378 #22723] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2016-10-10T11:20:53.514481 #22723] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2016-10-10T11:20:53.515004 #22723] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-d27e11b4-8ed6-11e6-b5db-02ee2ddab7fe?timestamp=1476098453&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&uuid=7990b5a6-68be-43af-9776-a1c73e12078c&channel=notifications.*&signature=Ow-o48Ovx3Ts7bOXonqK12CKLZII6I-xNBZ75OyI7B8=
+D, [2016-10-10T11:20:53.642400 #22723] DEBUG -- Pubnub::Event: Event#handle
+D, [2016-10-10T11:20:53.642789 #22723] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2016-10-10T11:20:53.647886 #22723] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+I, [2016-10-10T12:11:29.227224 #51116]  INFO -- Pubnub::Client: Created new Pubnub::Client instance. Version: 4.0.0beta14
+D, [2016-10-10T12:11:29.232169 #51116] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2016-10-10T12:11:29.232672 #51116] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2016-10-10T12:11:29.232781 #51116] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2016-10-10T12:11:29.233858 #51116] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-d27e11b4-8ed6-11e6-b5db-02ee2ddab7fe?timestamp=1476101489&w=0&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&uuid=fa878621-6d37-41e9-9dda-d7dcfd8a3d2b&channel=video.*&signature=zj2U_VgwsVdq8ngX2bRsYJ7WKuRGginhg9m5mqz_TYw=
+D, [2016-10-10T12:11:29.419429 #51116] DEBUG -- Pubnub::Event: Event#handle
+D, [2016-10-10T12:11:29.419862 #51116] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2016-10-10T12:11:29.420166 #51116] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2016-10-10T12:11:29.421517 #51116] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2016-10-10T12:11:29.421932 #51116] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2016-10-10T12:11:29.422005 #51116] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2016-10-10T12:11:29.422320 #51116] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-d27e11b4-8ed6-11e6-b5db-02ee2ddab7fe?timestamp=1476101489&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&uuid=fa878621-6d37-41e9-9dda-d7dcfd8a3d2b&channel=video.*&signature=3Ki9TsmDLCJQagf4TEESz5_vgqxmtq3fDi5cA2jDfjA=
+D, [2016-10-10T12:11:29.522739 #51116] DEBUG -- Pubnub::Event: Event#handle
+D, [2016-10-10T12:11:29.523095 #51116] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2016-10-10T12:11:29.523295 #51116] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant
+D, [2016-10-10T12:11:29.524635 #51116] DEBUG -- Pubnub::Event: Initialized Pubnub::Grant
+D, [2016-10-10T12:11:29.524999 #51116] DEBUG -- Pubnub::Event: Fired event Pubnub::Grant
+D, [2016-10-10T12:11:29.525113 #51116] DEBUG -- Pubnub::Client: Looking for requester for single_event
+D, [2016-10-10T12:11:29.525763 #51116] DEBUG -- Pubnub::Event: Requested URI: http://pubsub.pubnub.com/v1/auth/grant/sub-key/sub-c-d27e11b4-8ed6-11e6-b5db-02ee2ddab7fe?timestamp=1476101489&w=1&r=1&m=1&ttl=0&pnsdk=PubNub-Ruby/4.0.0beta14&uuid=fa878621-6d37-41e9-9dda-d7dcfd8a3d2b&channel=notifications.*&signature=Vo_8CaOfGTmpUq75UGyG-Povk1oSFnJjP3QwtU0eKUQ=
+D, [2016-10-10T12:11:29.633825 #51116] DEBUG -- Pubnub::Event: Event#handle
+D, [2016-10-10T12:11:29.634241 #51116] DEBUG -- Pubnub::Event: Event#add_common_data_to_envelopes
+D, [2016-10-10T12:11:29.634454 #51116] DEBUG -- Pubnub::Event: Firing callbacks for Pubnub::Grant

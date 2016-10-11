@@ -8,10 +8,12 @@ $ ->
           when 'published'
             location.reload()
           when 'liked'
+            console.log('liked')
             for likes in $("[data-video-id=" + id + "]").find('.likes-count')
               console.log('add')
               $(likes).html(parseInt($(likes).html()) + 1)
           when 'disliked'
+            console.log('disliked')
             for likes in $("[data-video-id=" + id + "]").find('.likes-count')
               console.log('remove')
               $(likes).html(parseInt($(likes).html()) - 1)
